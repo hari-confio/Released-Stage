@@ -1,0 +1,24 @@
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.4'
+'C:/Espressif/frameworks/esp-idf-v5.4' is owned by:
+	BUILTIN/Administrators (S-1-5-32-544)
+but the current user is:
+	DESKTOP-J9EDLD7/DELL (S-1-5-21-3545678768-174976615-1957004212-1002)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.4
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.4'
+'C:/Espressif/frameworks/esp-idf-v5.4' is owned by:
+	BUILTIN/Administrators (S-1-5-32-544)
+but the current user is:
+	DESKTOP-J9EDLD7/DELL (S-1-5-21-3545678768-174976615-1957004212-1002)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.4
+fatal: detected dubious ownership in repository at 'C:/Espressif/frameworks/esp-idf-v5.4/components/openthread/openthread'
+'C:/Espressif/frameworks/esp-idf-v5.4/components/openthread/openthread/.git' is owned by:
+	BUILTIN/Administrators (S-1-5-32-544)
+but the current user is:
+	DESKTOP-J9EDLD7/DELL (S-1-5-21-3545678768-174976615-1957004212-1002)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory C:/Espressif/frameworks/esp-idf-v5.4/components/openthread/openthread
